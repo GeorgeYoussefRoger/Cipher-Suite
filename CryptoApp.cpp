@@ -1152,7 +1152,7 @@ void main_menu(){
 }
 
 int main() {
-    cout << "\nWelcome to Cipher Suite!";
+    cout << "\nWelcome to the Cryptography App!";
     main_menu();
     return 0;
 }
