@@ -1,6 +1,7 @@
-# CipherSuite
-**CipherSuite** is a C++-based command-line application designed for encrypting and decrypting messages using ten cryptographic ciphers. Developed as a collaborative team project, this repository includes a single program implementing:
-Affine, Route, Atbash, Vigenere, Baconian, Simple Substitution, Polybius Square, Morse Code, XOR and Rail-fence ciphers
+# Cryptography-App
+**CryptoApp** is a C++-based command-line application designed for encrypting and decrypting messages using ten cryptographic ciphers. Developed as a collaborative team project for a university assignment, this repository includes a single program implementing:
+
+(Affine, Route, Atbash, Vigenere, Baconian, Simple Substitution, Polybius Square, Morse Code, XOR and Rail-fence)
 
 ## Features
 - Encrypt and decrypt messages using ten distinct ciphers.
